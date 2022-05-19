@@ -95,28 +95,28 @@ page.addEventListener('submit', function (evt) {
 
 const initialCards = [
   {
-    name: 'Архыз',
-    link: 'https://pictures.s3.yandex.net/frontend-developer/cards-compressed/arkhyz.jpg'
+    name: 'Охуенно удобно',
+    link: 'https://sun9-80.userapi.com/s/v1/ig2/4zanlUXeOMeqcM6biyrKUJHV9m0auv_rZ30SdNEvTdrsJKhlLP5bv5RnkYmrWLYAWJ-DEO4_EWv-KZfmrPruJsX_.jpg?size=1293x2160&quality=95&type=album'
   },
   {
-    name: 'Челябинская область',
-    link: 'https://pictures.s3.yandex.net/frontend-developer/cards-compressed/chelyabinsk-oblast.jpg'
+    name: 'Я у мамы морячок',
+    link: 'https://sun9-70.userapi.com/s/v1/ig2/mLBwn5fPtOhEi-g8HsgH1Z-Z_Fhw18mTm6s8TjQlZuIiigiCm9oQBrFJab3hTKTAFFI1_UhUTHUVWg4BG3GoadU_.jpg?size=2560x1894&quality=95&type=album'
   },
   {
-    name: 'Иваново',
-    link: 'https://pictures.s3.yandex.net/frontend-developer/cards-compressed/ivanovo.jpg'
+    name: 'Ммм, Денюжки',
+    link: 'https://sun9-46.userapi.com/s/v1/ig2/kxKqTA40qYB_bCIINBh9KPlgbxbTri2T7fly1YUZshrrwyh8el851x-WFtQCYwZBhBtlfq2a-ptmNu4HJUA425ld.jpg?size=2560x1912&quality=95&type=album'
   },
   {
-    name: 'Камчатка',
-    link: 'https://pictures.s3.yandex.net/frontend-developer/cards-compressed/kamchatka.jpg'
+    name: 'БородачЛена',
+    link: 'https://sun9-10.userapi.com/s/v1/ig2/ke_lN0B4jBWtTC-_JGk2mIFoSpJejywwrvO823-3cPGsVAZRQfPBn4vJ_LFsr0eG1n8fzJMan3HBUvKlzKXG6Z93.jpg?size=2560x1912&quality=95&type=album'
   },
   {
-    name: 'Холмогорский район',
-    link: 'https://pictures.s3.yandex.net/frontend-developer/cards-compressed/kholmogorsky-rayon.jpg'
+    name: 'Днюха Лаврюха',
+    link: 'https://sun9-59.userapi.com/s/v1/ig2/3rkBAXvFjUmNFxuBIURISleXn2mLSFgjSkB69vBeNaRLygUhDT8lad7AseVxub2m8D_LMdJXTotZM3JoqSC9avYl.jpg?size=2560x1920&quality=95&type=album'
   },
   {
-    name: 'Байкал',
-    link: 'https://pictures.s3.yandex.net/frontend-developer/cards-compressed/baikal.jpg'
+    name: 'Дневальный',
+    link: 'https://sun9-50.userapi.com/s/v1/ig2/fZV0x9ZJpmuotAm78ljgC3VN63ODSZEHkrC2ogFSOwk_vZpMb5utwi4AI2qjREesbOG16keljs53InpxHf8YwzCG.jpg?size=1598x2160&quality=95&type=album'
   }
 ];
 
