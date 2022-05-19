@@ -8,4 +8,4 @@
 
 Сайт похож на облегчённую версию Истаграмм.
 
-Ссылка на работу: https://arsenii400.github.io/mesto/index.html
+Ссылка на работу: https://arsenii400.github.io/Mark2/index.html
